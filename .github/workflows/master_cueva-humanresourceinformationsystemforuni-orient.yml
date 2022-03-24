@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Cueva-HumanResourceInformationSystemForUni-Orient'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8963AE7F4CC144B2B22987FA42197F74 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79F8C4C9974C49FABA23ED8028A222A0 }}
