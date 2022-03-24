@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-^xc@avd_yo_fh*s+^4dfuw7wn07+)iao-3gmuwzntfetqu&5(e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = FALSE
+DEBUG = False
 
 ALLOWED_HOSTS = ['cueva-humanresourceinformationsystemforuni-orient.azurewebsites.net']
 
